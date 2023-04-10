@@ -15,7 +15,7 @@ Clone este repositório em seu computador
 Abra o arquivo index.html em seu navegador
 Clique nos botões do menu para filtrar as imagens por categoria
 
-Tecnologias utilizadas
+## Tecnologias utilizadas
 
 HTML5
 TypeScript
