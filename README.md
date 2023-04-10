@@ -17,7 +17,7 @@ Clique nos botões do menu para filtrar as imagens por categoria
 
 ## Tecnologias utilizadas
 
-HTML5
-TypeScript
-CSS3
-DALL-E 
+HTML5<br>
+TypeScript<br>
+CSS3<br>
+DALL-E <br>
