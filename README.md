@@ -21,4 +21,3 @@ HTML5
 TypeScript
 CSS3
 DALL-E 
-
