@@ -1,6 +1,6 @@
 # Galeria
 
-Este é um sistema de galeria de imagens com filtros de categoria feito em TypeScript e CSS3.
+Este é um sistema de galeria de imagens com filtros de categoria feito em HTML5 TypeScript e CSS3.
 
 ## Funcionalidades
 
