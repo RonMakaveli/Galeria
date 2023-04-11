@@ -61,13 +61,12 @@
     font-weight: bold;
 }
 
-
 .gallery {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    max-width: 80vw;
+    
     margin: 0 auto;
     gap: 20px;
 }
@@ -80,25 +79,6 @@
 
 @media (max-width: 400px) {
     .gallery {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        gap: 10px;
+      grid-template-columns: repeat(2, 1fr);
     }
-
-    .gallery img {
-        width: calc((100vw - 30px) / 2);
-        height: calc((100vw - 30px) / 2);
-    }
-
-    .filters {
-        justify-content: center;
-    }
-
-    .filter-list {
-        margin-bottom: 10px;
-    }
-
-    .filter-btn {
-        font-size: 14px;
-    }
-}
+  }
